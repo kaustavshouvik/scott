@@ -2,6 +2,8 @@
 
 A simple cross-platform GUI file manager written in rust using [egui](https://github.com/emilk/egui) and [eframe](https://github.com/emilk/egui/tree/master/crates/eframe).
 
+_This project is in very early stages of development and currently it basically display some text to screen._
+
 ## Building
 
 ### Windows build
