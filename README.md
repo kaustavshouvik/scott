@@ -22,7 +22,7 @@ cargo build --release --target x86_64-pc-windows-gnu
 
 ## Troubleshooting
 
-1. In case of the following error: ` Found no glutin configs matching the template: ConfigTemplate`.
+1. In case of the following error: `Found no glutin configs matching the template: ConfigTemplate`.
 
    Install the `mesa-utils` package:
    `sudo apt install mesa-utils`
